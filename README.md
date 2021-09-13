@@ -1,6 +1,10 @@
 # IMDB-Movie-Review-Sentiment-Analysis
 ## Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
 
+### 1. IMDB Sentiment Analysis using Bag of Words.
+### 2. IMDB Sentiment Analysis using TF-IDf.
+### 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding)
+
 Natural Language Processing
 
 This is a basic form of Natural Language Processing (NLP) called Sentiment Analysis in which we will try and classify a movie review as either positive or negative.
