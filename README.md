@@ -2,7 +2,7 @@
 ## Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
 
 ### 1. IMDB Sentiment Analysis using Bag of Words.
-### 2. IMDB Sentiment Analysis using TF-IDf.
+### 2. IMDB Sentiment Analysis using TF-IDF.
 ### 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding)
 
 Natural Language Processing
