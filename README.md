@@ -1,5 +1,5 @@
 # IMDB-Movie-Review-Sentiment-Analysis
-## Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
+Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
 
 ### 1. IMDB Sentiment Analysis using Bag of Words.
 ### 2. IMDB Sentiment Analysis using TF-IDF.
