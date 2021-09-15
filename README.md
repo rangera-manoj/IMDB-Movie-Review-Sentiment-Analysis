@@ -5,6 +5,8 @@ Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
 ### 2. IMDB Sentiment Analysis using TF-IDF.
 ### 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding).
 
+In clean_function.py, i define a cleaning function to clean our reviews.
+
 Natural Language Processing
 
 This is a basic form of Natural Language Processing (NLP) called Sentiment Analysis in which we will try and classify a movie review as either positive or negative.
