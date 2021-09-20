@@ -36,9 +36,6 @@ It is called a “bag” of words, because any information about the order or st
            1       0.86      0.84      0.85      4978
 
     accuracy                           0.85      9917
-   macro avg       0.85      0.85      0.85      9917
-   
-weighted avg       0.85      0.85      0.85      9917
  
 
 ## 2. IMDB Sentiment Analysis using TF-IDF
@@ -69,9 +66,7 @@ The scores are a weighting where not all words are equally as important or inter
            1       0.86      0.86      0.86      4978
 
     accuracy                           0.86      9917
-   macro avg       0.86      0.86      0.86      9917
-   
-weighted avg       0.86      0.86      0.86      9917
+
 
 ## 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding)
 IMDB Movie review sentiment analysis using LSTM-Depp learning.
