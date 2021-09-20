@@ -26,6 +26,7 @@ It is called a “bag” of words, because any information about the order or st
 ### Result 
 #### Confusion matrix
 [[4236  703]
+
  [ 816 4162]]
  
 #### Classification report 
@@ -36,6 +37,7 @@ It is called a “bag” of words, because any information about the order or st
 
     accuracy                           0.85      9917
    macro avg       0.85      0.85      0.85      9917
+   
 weighted avg       0.85      0.85      0.85      9917
  
 
@@ -57,6 +59,7 @@ The scores are a weighting where not all words are equally as important or inter
 ### Result
 #### Confusion matrix
 [[4225  714]
+
  [ 711 4267]]
 
 #### Classification report 
@@ -67,6 +70,7 @@ The scores are a weighting where not all words are equally as important or inter
 
     accuracy                           0.86      9917
    macro avg       0.86      0.86      0.86      9917
+   
 weighted avg       0.86      0.86      0.86      9917
 
 ## 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding)
