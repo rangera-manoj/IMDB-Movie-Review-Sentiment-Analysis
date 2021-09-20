@@ -1,7 +1,9 @@
 # IMDB-Movie-Review-Sentiment-Analysis
 Basic EDA and Sentiment-Analysis-on-IMDB-Dataset.
 
-### 1. IMDB Sentiment Analysis using Bag of Words.
+## 1. IMDB Sentiment Analysis using Bag of Words
+Bag of Words:-
+A bag-of-words model, or BoW for short, is a way of extracting features from text for use in modeling, such as with machine learning algorithms.
 ### 2. IMDB Sentiment Analysis using TF-IDF.
 ### 3. IMDB Sentiment Analysis using LSTM-Deep Learning(word embedding).
 
