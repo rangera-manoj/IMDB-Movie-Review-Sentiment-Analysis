@@ -25,9 +25,9 @@ It is called a “bag” of words, because any information about the order or st
 
 ### Result 
 #### Confusion matrix
-[[4236    703]
+array([[4236    703]
 
- [816    4162]]
+       [816    4162]])
  
 #### Classification report 
               precision    recall  f1-score   support
@@ -55,9 +55,9 @@ The scores are a weighting where not all words are equally as important or inter
 
 ### Result
 #### Confusion matrix
-[[4225    714]
+array([[4225    714]
 
- [711    4267]]
+       [711    4267]])
 
 #### Classification report 
               precision    recall  f1-score   support
